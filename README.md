@@ -1,4 +1,5 @@
-# WebGoat-Java
-Solutions for WebGoat Version 8.2.2
+# WebGoat Solutions
+
+Solutions for WebGoat (Java) Version 8.2.2 (the Docker version if that matters)
+
 https://github.com/WebGoat/WebGoat
-The Docker version if that matters
